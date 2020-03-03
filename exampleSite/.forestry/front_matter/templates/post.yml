@@ -28,4 +28,5 @@ fields:
   description: 'type: post or featured'
 pages:
 - exampleSite/content/destinations.md
+- exampleSite/content/dining.md
 - exampleSite/content/lodging.md
