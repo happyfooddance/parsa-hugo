@@ -2,7 +2,7 @@
 categories = []
 date = ""
 description = "Destinations"
-image = ""
+image = "/say_that_shit_to_my_face.jpeg"
 tags = []
 title = "Destinations"
 type = "post"
