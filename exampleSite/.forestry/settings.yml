@@ -27,7 +27,7 @@ sections:
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: exampleSite/media
+upload_dir: exampleSite/static/media
 public_path: media
 front_matter_path: ''
 use_front_matter_path: 
