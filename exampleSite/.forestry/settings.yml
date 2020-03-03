@@ -29,8 +29,8 @@ sections:
   new_doc_ext: toml
 upload_dir: ''
 public_path: http://happyfooddance.s3-website-us-east-1.amazonaws.com
-front_matter_path: ''
-use_front_matter_path: false
+front_matter_path: http://happyfooddance.s3-website-us-east-1.amazonaws.com
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
