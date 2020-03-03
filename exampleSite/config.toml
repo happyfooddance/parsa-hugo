@@ -5,13 +5,17 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Happy Food Dance"
 [[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
+[[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 4
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
+address = "Denver, CO"
 author = "Jake & Gabriella Plimack"
 author_image = "images/banner-img.png"
 bio = "Jake & Gabriella are foodies who love to travel off the beaten path"
