@@ -65,7 +65,7 @@ enable = true
 [params.search]
 enable = true
 [[params.social]]
-URL = "#"
+URL = "https://facebook.com/jakeplimackphotography"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#"
