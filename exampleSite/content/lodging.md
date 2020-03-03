@@ -5,7 +5,7 @@ description = ""
 image = ""
 tags = []
 title = "Lodging"
-type = "featured"
+type = "post"
 [menu.main]
 weight = 2
 
