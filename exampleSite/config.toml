@@ -7,7 +7,7 @@ title = "Happy Food Dance"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 1
+weight = 4
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
