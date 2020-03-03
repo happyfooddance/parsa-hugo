@@ -16,13 +16,13 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "6 rip carl Avenue CA 90733"
-author = "Themefisher"
+author = "Jake & Gabriella Plimack"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = "Jake & Gabriella are foodies who love to travel off the beaten path"
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
-description = "This is meta description"
-email = "exmaple@ymail.com"
+description = "Jake & Gabriella are foodies who love to travel off the beaten path"
+email = "itsadate@happyfooddance.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
